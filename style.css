@@ -2,3 +2,12 @@ body {
     background-color: rgb(150, 139, 223);
     font-family: Monaco, monospace;
 }
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
