@@ -1,8 +1,13 @@
 #header {
-    text-align: center;
+  text-align: center;
 }
 
 body {
-    background-color: #24639f;
-    color: #FFDC00;
+  background-color: #24639f;
+  color: #ffdc00;
+}
+
+.img-thumbnail {
+  background-color: cornflowerblue;
+  border-color: cornflowerblue;
 }
