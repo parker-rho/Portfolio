@@ -7,7 +7,9 @@ body {
   color: #ffdc00;
 }
 
-.img-thumbnail {
-  background-color: cornflowerblue;
+img {
+  border-style: solid;
+  border-radius: 5px;
+  border-width: 7px;
   border-color: cornflowerblue;
 }
